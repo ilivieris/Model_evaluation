@@ -10,7 +10,7 @@ Contains the implementations of
 - Finner post-hoc test (single/multiple comparison)
 
 
-> **Directory**: results
+> **Directory**: predictions
 
 Contains csv files with the prediction of each evaluated method
 
