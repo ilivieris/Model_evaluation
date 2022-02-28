@@ -1,5 +1,8 @@
-# Model_evaluation
-Implementation of a complete evaluation framework for evaluating the performance of ML models
+# Model evaluation
+Implementation of a complete evaluation framework for evaluating the performance of ML models.
+- Perform a statistical analysis based on the absolute errors
+
+ 
 
 
 > **Directory**: utils
@@ -10,7 +13,7 @@ Contains the implementations of
 - Finner post-hoc test (single/multiple comparison)
 
 
-> **Directory**: results
+> **Directory**: predictions
 
 Contains csv files with the prediction of each evaluated method
 
