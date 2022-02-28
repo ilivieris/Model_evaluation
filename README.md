@@ -16,4 +16,4 @@ Contains csv files with the prediction of each evaluated method
 
 Example of a csv file:
 
-![Στιγμιότυπο 2022-02-28, 11 14 08 πμ](https://user-images.githubusercontent.com/68684650/155956302-72bc462e-5b18-41d9-9469-d33d90957b44.png)
+![output-onlinepngtools](https://user-images.githubusercontent.com/68684650/155956825-ee0f984e-5ec5-4574-b1ec-50eaadf72d68.png)
